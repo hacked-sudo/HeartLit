@@ -128,13 +128,5 @@ Commercial licensing available for OEM/white-label solutions
 
 ---
 
-## 📞 Let's Build Your Dating Platform
-
-## 💼 Hire Me & Support My Work
-
-### 🤝 Available for Projects
-
-I'm open to **Flutter development**, **API integrations**, and **consulting work**.
-
 📱 **Phone/WhatsApp**: [+91 9325593479](https://wa.me/919325593479)  
 📧 **Email**: [skbr951753@gmail.com](mailto:skbr951753@gmail.com)
